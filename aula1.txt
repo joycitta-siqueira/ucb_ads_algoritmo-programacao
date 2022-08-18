@@ -1,0 +1,35 @@
+Algoritmo que calcule a media dos alunos.
+LINGUAGEM NATURAL
+
+1 - SOLICITAR AS NOTAS
+2 - SOLICITAR O NOME
+3 - CALCULAR
+4 - APRESENTAR O RESULTADO
+
+PORTUGUES ESTRUTURADO
+
+algoritmo mediaAlunos;
+inicio
+	real nota1, nota2, media; 
+	texto nome;
+	escreva("Digite o nome");
+	leia(nome);
+	escreva("Digite a nota1");
+	leia(nota1);
+	escreva("Digite a nota2");
+	leia(nota2);
+	media = (nota1 + nota2)/2;
+	escreval("A media e ");
+	escreva(media);
+fim
+
+
+
+	
+
+
+
+
+
+
+	
